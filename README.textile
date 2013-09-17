@@ -1,0 +1,3 @@
+h1. Ballistic launch
+
+An expositive simulation of ballistic launch. User contols speed and angle of launch, gravity, air resistance and energies. This simulation is internationalized. Translations available: en-US and pt-BR.
